@@ -1,0 +1,11 @@
+C:\Users\VAIO\source\repos\trabajoautonomo\trabajoautonomo\obj\Debug\netcoreapp3.0\trabajoautonomo.csprojAssemblyReference.cache
+C:\Users\VAIO\source\repos\trabajoautonomo\trabajoautonomo\obj\Debug\netcoreapp3.0\trabajoautonomo.AssemblyInfoInputs.cache
+C:\Users\VAIO\source\repos\trabajoautonomo\trabajoautonomo\obj\Debug\netcoreapp3.0\trabajoautonomo.AssemblyInfo.cs
+C:\Users\VAIO\source\repos\trabajoautonomo\trabajoautonomo\bin\Debug\netcoreapp3.0\trabajoautonomo.exe
+C:\Users\VAIO\source\repos\trabajoautonomo\trabajoautonomo\bin\Debug\netcoreapp3.0\trabajoautonomo.deps.json
+C:\Users\VAIO\source\repos\trabajoautonomo\trabajoautonomo\bin\Debug\netcoreapp3.0\trabajoautonomo.runtimeconfig.json
+C:\Users\VAIO\source\repos\trabajoautonomo\trabajoautonomo\bin\Debug\netcoreapp3.0\trabajoautonomo.runtimeconfig.dev.json
+C:\Users\VAIO\source\repos\trabajoautonomo\trabajoautonomo\bin\Debug\netcoreapp3.0\trabajoautonomo.dll
+C:\Users\VAIO\source\repos\trabajoautonomo\trabajoautonomo\bin\Debug\netcoreapp3.0\trabajoautonomo.pdb
+C:\Users\VAIO\source\repos\trabajoautonomo\trabajoautonomo\obj\Debug\netcoreapp3.0\trabajoautonomo.dll
+C:\Users\VAIO\source\repos\trabajoautonomo\trabajoautonomo\obj\Debug\netcoreapp3.0\trabajoautonomo.pdb
